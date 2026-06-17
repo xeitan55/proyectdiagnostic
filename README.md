@@ -1,0 +1,2 @@
+# proyectdiagnostic
+mugen diagnositc
